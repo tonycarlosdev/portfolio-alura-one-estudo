@@ -143,11 +143,16 @@ body {
     justify-content: center;
     gap: 50px;
   }
+  .apresentacao__conteudo__titulo, .apresentacao__conteudo__texto {
+    text-align: center;
+  }
 }
 @media(max-width: 395px) {
   .cabecalho__menu {
     justify-content: center;
     gap: 40px;
   }
-
+  .apresentacao__conteudo__titulo, .apresentacao__conteudo__texto {
+    text-align: center;
+  }
 }
