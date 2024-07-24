@@ -138,3 +138,16 @@ body {
     width: auto;
   }
 }
+@media(max-width: 432px) {
+  .cabecalho__menu {
+    justify-content: center;
+    gap: 50px;
+  }
+}
+@media(max-width: 395px) {
+  .cabecalho__menu {
+    justify-content: center;
+    gap: 40px;
+  }
+
+}
